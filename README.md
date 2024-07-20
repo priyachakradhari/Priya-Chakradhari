@@ -6,7 +6,6 @@
 
 <img align="right" alt="Analysis" widtj="400" src="https://encrypted-tbn0.gstatic.com/images?">
 
-q=tbn:ANd9GcSRIhF0Onqw84_BcGghjg0pJTiTZjwzmXzCDQ&s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyachakradhari&label=Profile%20views&color=0e75b6&style=flat" alt="priyachakradhari" /> </p>
 
